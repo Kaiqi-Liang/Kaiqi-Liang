@@ -20,6 +20,6 @@ Actively looking for **software engineering internships**
 [<img src=assets/typescript.svg alt="TypeScript" width="50" />](https://www.typescriptlang.org)
 **TypeScript**
 
-## Connect with me
+## Contact
 [<img src=assets/linkedin.svg alt="LinkedIn" width="50" />](https://www.linkedin.com/in/kaiqiliang)
-On **LinkedIn**
+Connect with me on **LinkedIn**
