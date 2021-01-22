@@ -5,13 +5,11 @@
 **Kaiqi**
 
 <br />
-<br />
 
 ## Education
 [<img src=assets/engineering.svg alt="MacBook" width="60" />](https://www.handbook.unsw.edu.au/undergraduate/programs/2021/3778)
 **Computer Science** Student at the **University of New South Wales**
 
-<br />
 <br />
 
 ## Interest
@@ -19,20 +17,17 @@
 Interested in **frontend** but also happy to work on **backend**
 
 <br />
-<br />
 
 ## Status
-<img src=assets/software.svg alt="Software Engineering" width="60" />
+[<img src=assets/software.svg alt="Software Engineering" width="60" />]()
 Actively looking for **software engineering internships**
 
-<br />
 <br />
 
 ## Favourite language
 [<img src=assets/typescript.svg alt="TypeScript" width="50" />](https://www.typescriptlang.org)
 **TypeScript**
 
-<br />
 <br />
 
 ## Connect with me
