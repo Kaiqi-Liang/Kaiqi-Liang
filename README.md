@@ -1,11 +1,11 @@
 # Welcome 👋
 
 ## Education
-[<img src=assets/love.svg alt="MacBook" width="60" />](https://kaiqi-liang.web.app)
+[<img src=assets/love.svg alt="MacBook" width="60" />](https://www.handbook.unsw.edu.au/undergraduate/programs/2021/3778)
 **Computer Science** Student at the **University of New South Wales**
 
 ## Interest
-[<img src=assets/engineering.svg alt="MacBook" width="60" />](https://www.handbook.unsw.edu.au/undergraduate/programs/2021/3778)
+[<img src=assets/engineering.svg alt="MacBook" width="60" />](https://reactjs.org)
 Interested in **frontend** but also happy to work on **backend**
 
 ## Status
