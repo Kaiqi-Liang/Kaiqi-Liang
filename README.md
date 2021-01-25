@@ -6,7 +6,7 @@
 
 ## Interest
 [<img src=assets/engineering.svg alt="MacBook" width="60" />](https://reactjs.org)
-Interested in **frontend** but also happy to work on **backend**
+Interested in **frontend** but also more than happy to do any **backend** work
 
 ## Status
 [<img src=assets/software.svg alt="Software Engineering" width="60" />](https://kaiqi-liang.web.app)
