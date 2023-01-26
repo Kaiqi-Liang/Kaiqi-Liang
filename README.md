@@ -1,7 +1,7 @@
 ### Welcome 👋
 
-- I'm a **Computer Science** student at [UNSW](https://www.unsw.edu.au)
-[<img src=assets/love.svg alt="Love" width="60" />](https://www.unsw.edu.au)
+- I'm a **Master of Information Technology** student at [UWA](https://www.uwa.edu.au)
+[<img src=assets/love.svg alt="Love" width="60" />](https://www.uwa.edu.au)
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kaiqiliang)
 [<img src=assets/linkedin.svg alt="LinkedIn" width="50" />](https://www.linkedin.com/in/kaiqiliang)
