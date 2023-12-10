@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-- I'm a **Master of Information Technology** student at [UWA](https://www.uwa.edu.au)
+- I'm a **Master of Information Technology** graduate at [UWA](https://www.uwa.edu.au)
 [<img src=assets/love.svg alt="Love" width="60" />](https://www.uwa.edu.au)
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/kaiqiliang)
