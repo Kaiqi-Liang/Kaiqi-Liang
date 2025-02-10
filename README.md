@@ -5,5 +5,3 @@
 - I also completed a **Bachelor of Computer Science** degree at [UNSW](https://www.unsw.edu.au)
 
 - My favourite programming language is [Rust](https://www.rust-lang.org)
-
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/kaiqiliang)
